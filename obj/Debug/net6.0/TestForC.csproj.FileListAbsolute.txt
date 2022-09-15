@@ -1,0 +1,15 @@
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.csproj.AssemblyReference.cache
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.AssemblyInfoInputs.cache
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.AssemblyInfo.cs
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Source\Repos\TestForC\bin\Debug\net6.0\TestForC.exe
+C:\Users\Ed\Source\Repos\TestForC\bin\Debug\net6.0\TestForC.deps.json
+C:\Users\Ed\Source\Repos\TestForC\bin\Debug\net6.0\TestForC.runtimeconfig.json
+C:\Users\Ed\Source\Repos\TestForC\bin\Debug\net6.0\TestForC.dll
+C:\Users\Ed\Source\Repos\TestForC\bin\Debug\net6.0\TestForC.pdb
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.dll
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\refint\TestForC.dll
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.pdb
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\TestForC.genruntimeconfig.cache
+C:\Users\Ed\Source\Repos\TestForC\obj\Debug\net6.0\ref\TestForC.dll
